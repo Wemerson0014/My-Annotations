@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Annotations</string>
+
+    <!-- activity_main -->
+    <string name="fab_add">Add an annotation</string>
+    <string name="image_logo">Logo</string>
+    <string name="hint_edit_text">Type an annotation</string>
+</resources>
