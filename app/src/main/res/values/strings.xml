@@ -5,4 +5,8 @@
     <string name="fab_add">Add an annotation</string>
     <string name="image_logo">Logo</string>
     <string name="hint_edit_text">Type an annotation</string>
+
+    <!-- Main Activity -->
+    <string name="snack_massage">Fill out a note!</string>
+    <string name="snack_success">Annotation saved successfully</string>
 </resources>

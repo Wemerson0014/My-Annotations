@@ -31,13 +31,13 @@
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="32dp"
         android:contentDescription="@string/fab_add"
-        android:src="@drawable/ic_add_24"
+        android:src="@drawable/ic_done_24"
         app:fabSize="normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
     <EditText
-        android:id="@+id/editTextTextMultiLine"
+        android:id="@+id/edit_annotation"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:autofillHints="@null"
